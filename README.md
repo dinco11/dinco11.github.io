@@ -32,13 +32,13 @@ li a:hover {
 
 <ul>
   <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#news">Training</a></li>
+  <li><a href="#Training">Training</a></li>
   <li><a href="#contact">Contact Us</a></li>
   <li><a href="#Service">Service Offered</a></li>
 <li><a href="#Donate">Donate</a></li>
 
 </ul>
-</style>
+
 
 
 <body style="background-color:white;">
@@ -54,7 +54,7 @@ img {
 </style>
 
 <div class="header">
-<h1><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fredcross.org.ph%2F&psig=AOvVaw0gGxs7Y7QSffI3O2dHL8qA&ust=1649389960727000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKiu2ceGgfcCFQAAAAAdAAAAABAD" alt="logo"/>PHILIPPINE RED CROSS</h1>
+<h1><img src="https://redcross.org.ph/wp-content/uploads/2018/06/logo.png" alt="logo"/>PHILIPPINE RED CROSS</h1>
 </div>
 <p>MARIKINA CHAPTER</p>
 <p>#2 V. Gomez St. Corner J.P Rizal St. San Roque, Marikina City</p>

@@ -32,13 +32,13 @@ li a:hover {
 
 <ul>
   <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#Training">Training</a></li>
+  <li><a href="#news">Training</a></li>
   <li><a href="#contact">Contact Us</a></li>
   <li><a href="#Service">Service Offered</a></li>
 <li><a href="#Donate">Donate</a></li>
 
 </ul>
-
+</style>
 
 
 <body style="background-color:white;">
